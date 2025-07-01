@@ -1,0 +1,10 @@
+streamlit
+requests
+langchain
+openai
+python-dotenv
+PyMuPDF
+python-docx
+pytesseract
+whisper
+beautifulsoup4
